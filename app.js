@@ -33,3 +33,4 @@ function toEmoticon(meaning) {
     }
 }
 */
+console.log(toEmoticon("whatever"))
